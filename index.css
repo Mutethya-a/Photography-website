@@ -28,7 +28,7 @@
     display: inline-flexbox;
     justify-content: center;
     gap: 30px;
-    text-align: left;
+    text-align: center;
 }
 .footer {
     background-color: #2b3a42;
